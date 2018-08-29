@@ -2,7 +2,7 @@
   "dependencies": {
     "express": "4.16.3"
   },
-  "description": "Minimal working example to deploy a Node.js app on Amazon ElasticBeanstalk.",
+  "description": "Minimal working example to deploy a Node.js app on Amazon Elastic Beanstalk.",
   "devDependencies": {
     "fs-extra": "7.0.0",
     "jszip": "3.1.5"
