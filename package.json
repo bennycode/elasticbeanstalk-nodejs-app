@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "4.16.3"
+    "express": "4.19.2"
   },
   "description": "Minimal working example to deploy a Node.js app on Amazon Elastic Beanstalk.",
   "devDependencies": {
